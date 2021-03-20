@@ -1,8 +1,9 @@
-
-
-
-
-
+'''
+    Program: Hacked Appearance Script 03
+    Author : akr
+    GitHub : https://github.com/a-k-r-a-k-r
+    Blog   : https://a-k-r-a-k-r.blogspot.com
+'''
 
 #program to exploit the system resources
 import tkinter

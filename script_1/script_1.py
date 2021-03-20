@@ -1,3 +1,10 @@
+'''
+    Program: Hacked Appearance Script 01
+    Author : akr
+    GitHub : https://github.com/a-k-r-a-k-r
+    Blog   : https://a-k-r-a-k-r.blogspot.com
+'''
+
 import random
 from termcolor import colored
 count = 0

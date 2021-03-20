@@ -1,3 +1,10 @@
+'''
+    Program: Hacked Appearance Script 02
+    Author : akr
+    GitHub : https://github.com/a-k-r-a-k-r
+    Blog   : https://a-k-r-a-k-r.blogspot.com
+'''
+
 import time
 import random
 import pyfiglet
