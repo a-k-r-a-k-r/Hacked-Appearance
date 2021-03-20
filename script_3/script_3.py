@@ -1,17 +1,19 @@
+
+
+
+
+
+
 #program to exploit the system resources
-
-
 import tkinter
 import random
+import time
 
 root= tkinter.Tk()
 root.title("Hacked")
 root.geometry("300x100")
 root.config(bg="black")
 
-def message_show():
-    main_message = tkinter.Toplevel(root,bg="black")
-    main_message.geometry("1000x200")
 
 #change for loop with a while true statement in real scenerio
 #sometimes while may not work. therefore increase the range
@@ -22,9 +24,6 @@ def hack():
         topj=tkinter.Toplevel(root,bg="green")
         topj.geometry("300x100+{}+{}".format(rand_x,rand_y))
         
-    
-
-
 
 start_btn = tkinter.Button(root,bg="green",fg="black",text="Start",command=hack)
 start_btn.pack(ipadx=30,ipady=10,padx=100,pady=20)
